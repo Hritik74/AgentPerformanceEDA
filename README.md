@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/903b940e-0a7c-4adf-bcbe-d8138a7a9f23)
 
 ## Project Overview  
-This project performs an in-depth Exploratory Data Analysis (EDA) on chat support agent performance data. It evaluates key metrics such as:  
+This project performs an in-depth Exploratory Data Analysis (EDA) on chat support agent performance data collected from the iNeuron EdTech company's website. It evaluates key metrics such as:  
 - Weekly performance ratings 
 - Working days and contribution hours  
 - Number of queries handled  
