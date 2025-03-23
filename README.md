@@ -57,7 +57,7 @@ This project isn’t just about numbers — it brings performance insights to li
 ## How to Run  
 1. **Clone the repository:**  
     ```bash
-    git clone (https://github.com/Hritik74/AgentPerformanceEDA)
+    git clone https://github.com/Hritik74/AgentPerformanceEDA
     ```  
 
 2. **Install the required libraries:**  
